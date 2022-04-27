@@ -1,0 +1,25 @@
+{
+  "subject": "Chemistry",
+  "students": [
+    {
+      "name": "Johny Smith",
+      "grades": [4, 4, 1]
+    },
+    {
+      "name": "Lucy Jenkins",
+      "grades": [1, 2, 3]
+    },
+    {
+      "name": "Peter Johnson",
+      "grades": [1, 1, 1]
+    },
+    {
+      "name": "Aliya Aisarakunova",
+      "grades": [5, 4, 5]
+    },
+    {
+      "name": "James Kvin",
+      "grades": [2, 4, 5]
+    }
+  ]
+}
